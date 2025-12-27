@@ -1,4 +1,4 @@
-# Food-Delivery Monorepo
+# Food-Delivery
 
 This workspace contains three apps:
 
